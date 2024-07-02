@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589387712005",
+    "project_id": "vuna-tule-17c1d",
+    "storage_bucket": "vuna-tule-17c1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589387712005:android:b5bdb165d523ad333b7e6c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANOlsFaoH18tTCBxi8mT7p2Dgbu-f9gbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
